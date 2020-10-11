@@ -1,6 +1,6 @@
 # SearchAlgorithmBenchmarks
 
-A GUI application implemented with JavaFX that helps evaluate the runtime performance of different searching algorithms. Performance is evaluated based on the amount of comparisons to required to to find a match.
+A GUI application implemented with JavaFX that helps evaluate the runtime performance of different searching algorithms. Performance is evaluated based on the amount of comparisons to required to find a match.
 
 ## Features
 
